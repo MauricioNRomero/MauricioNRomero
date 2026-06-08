@@ -6,7 +6,7 @@ Frontend Developer en formación — Córdoba, Argentina 🇦🇷
 - 🚀 Aprendiendo desarrollo frontend con dedicación full-time
 - 💻 Construyendo proyectos reales para insertarme en el mercado laboral
 - 🌎 Inglés fluido — disponible para equipos remotos internacionales
-- 📬 romeromauricioinformatica@gmail.com
+- 📬 romeromauricio.dev@gmail.com
 
 ## Stack actual
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
